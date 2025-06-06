@@ -1,0 +1,1 @@
+# This repository contains well-structured C++ programs demonstrating core Object-Oriented Programming (OOP) concepts such as classes, objects, constructors, destructors, inheritance, polymorphism, encapsulation, abstraction, and more. Ideal for beginners and intermediates looking to strengthen their OOP fundamentals with practical code examples and clear explanations.
